@@ -71,7 +71,7 @@ To start using Singleton Service
  ```
  Use the following as URI/request parameters to test the API. These parameters come from the sample translation resources.
  ```  
- productName: "SampleProject"
+ productName: "SampleProject"111
  version: "1.0.0"
  component: "component1" or "component2"
  locale: "en", "ja" or "es"
